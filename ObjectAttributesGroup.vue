@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import DxButton from 'devextreme-vue/button'
-import type { Options } from './SurveyObjectAttributeTemplate.vue'
+import type { Options } from './ObjectAttributeTemplate.vue'
 import type { Attribute, ObjectSchema, Schema } from '~/types/attributes'
 import { SCHEMA_TYPE, SimpleSchema } from '~/types/attributes'
 import type { BusinessObjectType } from '~/types/business-type'

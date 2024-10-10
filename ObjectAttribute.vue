@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import type { Options } from './SurveyObjectAttributeTemplate.vue'
+import type { Options } from './ObjectAttributeTemplate.vue'
 import type { ObjectSchema, Schema } from '~/types/attributes'
 import { Attribute, SCHEMA_TYPE } from '~/types/attributes'
 

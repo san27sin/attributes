@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import InlineSvg from 'vue-inline-svg'
-import type { Options } from './SurveyObjectAttributeTemplate.vue'
+import type { Options } from './ObjectAttributeTemplate.vue'
 import type { Attribute } from '~/types/attributes'
 import type { BusinessObjectType } from '~/types/business-type'
 
